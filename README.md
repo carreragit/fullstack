@@ -1,4 +1,4 @@
-José Carrera
+José Carrera\n
 Francisca Guerrero
 Naomi Villlarroel
 Benjamín Ramirez 
